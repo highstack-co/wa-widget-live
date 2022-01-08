@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/css/bundle.min.css",
-    "main.js": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/js/bundle.js",
-    "main.js.map": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/js/bundle.js.map",
-    "index.html": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/index.html",
-    "static/css/bundle.min.css.map": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/css/bundle.min.css.map",
-    "static/js/bundle.js.LICENSE.txt": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/js/bundle.js.LICENSE.txt",
-    "static/media/inter.css": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/media/Inter.var.9df5db38.woff2",
-    "static/media/arrowRight.956d575c.svg": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/media/arrowRight.956d575c.svg",
-    "static/media/coinbaseWalletIcon.a3a7d7fd.svg": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/media/coinbaseWalletIcon.a3a7d7fd.svg",
-    "static/media/metamask.02e3ec27.png": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/media/metamask.02e3ec27.png",
-    "static/media/walletConnectIcon.304e3277.svg": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/media/walletConnectIcon.304e3277.svg",
-    "static/media/x.33076876.svg": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/media/x.33076876.svg"
+    "main.css": "https://highstack-co.github.io/wa-widget-live/static/css/bundle.min.css",
+    "main.js": "https://highstack-co.github.io/wa-widget-live/static/js/bundle.js",
+    "main.js.map": "https://highstack-co.github.io/wa-widget-live/static/js/bundle.js.map",
+    "index.html": "https://highstack-co.github.io/wa-widget-live/index.html",
+    "static/css/bundle.min.css.map": "https://highstack-co.github.io/wa-widget-live/static/css/bundle.min.css.map",
+    "static/js/bundle.js.LICENSE.txt": "https://highstack-co.github.io/wa-widget-live/static/js/bundle.js.LICENSE.txt",
+    "static/media/inter.css": "https://highstack-co.github.io/wa-widget-live/static/media/Inter.var.9df5db38.woff2",
+    "static/media/arrowRight.956d575c.svg": "https://highstack-co.github.io/wa-widget-live/static/media/arrowRight.956d575c.svg",
+    "static/media/coinbaseWalletIcon.a3a7d7fd.svg": "https://highstack-co.github.io/wa-widget-live/static/media/coinbaseWalletIcon.a3a7d7fd.svg",
+    "static/media/metamask.02e3ec27.png": "https://highstack-co.github.io/wa-widget-live/static/media/metamask.02e3ec27.png",
+    "static/media/walletConnectIcon.304e3277.svg": "https://highstack-co.github.io/wa-widget-live/static/media/walletConnectIcon.304e3277.svg",
+    "static/media/x.33076876.svg": "https://highstack-co.github.io/wa-widget-live/static/media/x.33076876.svg"
   },
   "entrypoints": [
     "static/css/bundle.min.css",
